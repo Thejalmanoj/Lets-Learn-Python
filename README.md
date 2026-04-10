@@ -28,6 +28,10 @@ To explore or run the code locally:
    ```bash
    python filename.py
 
+## 🤝 Collaborative Learning
+This repository is a joint effort between **[Thejal Manoj](https://github.com/Thejalmanoj/THEJAL)** and **[Subin Simon](https://github.com/subinsimon4567/Subin)**. 
+We are learning Python from scratch and solving programs together to strengthen our logic and coding skills. Every script here represents a problem we’ve tackled as a team!
+
 ## 🤝 Contributing
 Since this is a learning-focused repository, suggestions and improvements are always welcome! Feel free to fork the repo and submit a pull request if you have a more efficient way to solve a problem or want to add a new topic.
 
