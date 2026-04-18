@@ -1,8 +1,16 @@
-day=int(input())
-eve=int(input())
-night=int(input())
-s=(eve*0.20)+(night*0.15)
-g=(eve*0.30)+(night*0.20)
+#Customer wants to compare which plan is more effective based on their usage.
+#Silver plan: 6am - 6 pm => 1st 20 minutes are free then 0.30 Rs per min.
+            # 6 pm - 10 pm => 0.20 per minute
+            # 10 pm - 6 am => 0.15 per minute
+#Gold plan: 6am - 6 pm => 1st 200 minutes are free then 0.40 Rs per min.
+            # 6 pm - 10 pm => 0.30 per minute
+            # 10 pm - 6 am => 0.20 per minute
+
+day=int(input()) #daytime usage in minutes
+eve=int(input()) #evening usage in minutes
+night=int(input()) #nighttime usage in minutes
+s=(eve*0.20)+(night*0.15) #Amount as per silver plan
+g=(eve*0.30)+(night*0.20) #Amount as per Golden plan
 if(day>120):
     s+=(day-120)*0.30
 if(day>200):
