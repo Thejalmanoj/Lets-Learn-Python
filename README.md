@@ -5,14 +5,6 @@ Welcome to my Python learning repository! This repo serves as a personal documen
 ## 🚀 Overview
 This repository contains a collection of Python scripts and exercises. Whether you are a beginner looking for examples or just following my progress, these files provide clear, runnable code snippets for fundamental Python features.
 
-## 📁 Repository Structure
-The project is organized into modular folders and files covering:
-* **Basics**: Variables, data types, and simple input/output operations.
-* **Control Flow**: Examples of `if-else` statements, `for` loops, and `while` loops.
-* **Data Structures**: Hands-on practice with Lists, Tuples, Dictionaries, and Sets.
-* **Functions**: Defining reusable code blocks and exploring scope.
-* **File Handling**: Reading from and writing to external files.
-
 ## 🛠️ Getting Started
 To explore or run the code locally:
 
